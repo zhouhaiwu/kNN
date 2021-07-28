@@ -5,3 +5,5 @@ k-近邻算法
 
 
 python的版本：3.6.7  python  --version
+
+https://www.manning.com/books/machine-learning-in-action    ---   该网站的所有源代码
